@@ -1,0 +1,8 @@
+{
+  "name": "Remix: DB Programming Academy",
+  "description": "เว็บไซต์เรียนรู้การเขียนโปรแกรมภาษา Python สำหรับนักเรียน ปวช. และ ปวส. ตั้งแต่พื้นฐานจนถึง GUI, OOP และระบบงานธุรกิจขนาดเล็ก",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
